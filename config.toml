@@ -1,0 +1,22 @@
+project_id = "brpcuqmzgutnjounwinc"
+
+[functions.test-deployment]
+verify_jwt = false
+
+[functions.ai-generate-section]
+verify_jwt = false
+
+[functions.get-microsoft-config]
+verify_jwt = false
+
+[functions.send-teams-notifications]
+verify_jwt = false
+
+[functions.teams-webhook-relay]
+verify_jwt = false
+
+[functions.intake-email]
+verify_jwt = false
+
+[functions.validate-email-domain]
+verify_jwt = false
